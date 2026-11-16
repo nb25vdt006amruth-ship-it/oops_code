@@ -1,0 +1,23 @@
+# Compiled Object files, executables and libraries
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# Temporary and local runtime files
+records.txt
+nums.txt
+in.txt
+out.txt
+system_log.txt
+students.txt
+
+# IDE and OS metadata
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
